@@ -1,0 +1,2 @@
+# qdi
+Quickshell Desktop Icons
