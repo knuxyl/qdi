@@ -56,5 +56,3 @@ Profiles are saved dynamically by a hash of all monitor names + the absolute pat
 
  - Place the qdi folder in `~/.config/quickshell/`
  - Run with `qs -c qdi`
-
-(PS Gnome doesn't have desktop icons anymore because it was too hard for them to update the code to match the new coding style introduced in gnome 30(?). They will fight you though and say it's because they're antiquated. I have bookmarks to prove them wrong and it was a skill issue.)
