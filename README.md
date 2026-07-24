@@ -24,7 +24,6 @@ You are not a **DESKTOP** environment if you refuse to have icons. You are a **W
  - Multiple monitors
  - Cut/Copy/Paste
  - Grid and Freeform placement
- - Saved profiles
  - Comprehensive settings window
  - Use any folder as desktop
  - Percentage based sizing + positioning
@@ -40,10 +39,11 @@ You are not a **DESKTOP** environment if you refuse to have icons. You are a **W
  - .desktop icon loading
  - Refresh option
  - Settings might be overwritten when changing desktop folder
+ - Saved profiles
 
 ## Profiles
 
-Profiles are saved dynamically by a hash of all monitor names + the absolute path to the selected desktop folder in ~/.config/qdi/HASH.json. These profiles save all settings, such as icon placement, z-axis, sizing, etc.
+Profiles are saved dynamically by a hash of all monitor names + the absolute path to the selected desktop folder in ~/.config/qdi/HASH.json. These profiles save all settings, such as icon placement, z-axis, sizing, etc. NOTE AI broke this, this is no longer true.
 
 # Installation
 
