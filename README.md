@@ -1,7 +1,7 @@
 # Quickshell Desktop Icons
 All coding was done by AI.
-
-
+![screen1](screen1.png)
+![screen2](screen2.png)
 You are not a **DESKTOP** environment if you refuse to have icons. You are a **WINDOW** environment. You place things on your desktop, not just paint it, otherwise it wouldn't be a desk, would it?
 
 ## Define desktop:
