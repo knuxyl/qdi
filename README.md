@@ -2,7 +2,7 @@
 All coding was done by AI.
 ![screen1](screen1.png)
 ![screen2](screen2.png)
-It isn't a **DESKTOP** environment if it doesn't have icons. It is a **WINDOW** environment. You place things on your desktop, not just paint it, otherwise it wouldn't be a desk, would it?
+It isn't a **DESKTOP** environment if it doesn't have icons. It is a **WINDOW** environment. You place things on your desktop, not just paint it, otherwise it wouldn't be a desk, would it? Opinionated software is garbage.
 
 ## Define desktop:
 
